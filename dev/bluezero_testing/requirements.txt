@@ -1,0 +1,5 @@
+bluezero==0.9.1
+dbus-python==1.4.0
+packaging==26.0
+pycairo==1.29.0
+PyGObject==3.50.2
