@@ -53,3 +53,9 @@ This is not the final software for this project and is subject to change.
 ## Troubleshooting
 
 - to be added once prototype is assembled
+
+## Current Setup
+
+- Clone Repo
+- On Raspberry Pi: One terminal should run server.py and another should run rpi_client.py
+- Once those are running run PC_Client_2.py on computer
